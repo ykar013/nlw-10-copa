@@ -1,6 +1,5 @@
-h1 align="center"> DevLinks </h1>
-
-<p align="center">
+<h1 align ="center"> DevLinks </h1>
+<p align ="center">
 Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
 </p>
 
@@ -18,7 +17,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="sei la" src=".github/preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -36,15 +35,11 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/MF894TdzM99Fg9Ssu4kyMq/DevLinks-(Copy)?node-id=1%3A1135&t=8x94o7ecTaQMC2CS-1/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/amFM28j57PUKduEHAWMQ6k/DevLinks-%E2%80%A2-Projeto-Discover-(Community)?node-id=0-1&t=e1yzNmwpWoS7Jv9D-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
 
 ---
 
